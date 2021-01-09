@@ -1,0 +1,4 @@
+include ':compiler'
+include ':annotations'
+include ':app'
+rootProject.name = "UsingOfJavaPoet"
